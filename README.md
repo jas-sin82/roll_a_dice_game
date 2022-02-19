@@ -9,7 +9,7 @@ In this project I have used HTML for structure, css for style to make Game more 
 
 This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
 
-### short Decription About Functionality
+### short Decription About Functionality [To Test Play ](https://jas-sin82.github.io/roll_a_dice_game/)
 
 * Click on a dice to play/roll 🎲. <br>
 * Game of 2 Players!! when the Player is active color = "light" & when Player is unactive color = "Dark" <br>
@@ -28,3 +28,6 @@ This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
   will enable to click to play again.<br>
 * One more thing any time player want skip turn(dont want roll a dice ) just press hold button and game
   will pass to other Player.
+
+## Game Flowchart 
+![screenshot](
