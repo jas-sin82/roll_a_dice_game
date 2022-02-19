@@ -7,9 +7,9 @@ A Game for Two Players
 
 In this project I have used HTML for structure, css for style to make Game more user intractive , JavaScript for functionality to make the Game more user intractive && Finally media query and bootstrap to make Game mobile responsive.
 
-This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
+### This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
 
-### short Decription About Game && Functionality [To Test Play ](https://jas-sin82.github.io/roll_a_dice_game/)
+### Short Decription About Game && Functionality [To Test Play ](https://jas-sin82.github.io/roll_a_dice_game/)
 
 * Click on a dice to play/roll 🎲. <br>
 * Game of 2 Players!! when the Player is active color = "light" & when Player is unactive color = "Dark" <br>
