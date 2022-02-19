@@ -34,7 +34,7 @@ This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
 
 ## Testing 
 
-### unctionality Testing
+### Functionality Testing
 * I used Chrome developer tools throughout the projects for testing and solving problems with responsiveness and style isssues.
 
 ### Compatibilty Testing
