@@ -717,11 +717,12 @@ main {
     
   .player {
     flex: 50%;
-    padding: 8rem;
+    /* padding: 8rem; */
     display: flex;
     flex-direction: column;
     align-items: center;
     transition: all 0.75s;
+    padding-top:70px;
     
   }  
  .winning-message{
