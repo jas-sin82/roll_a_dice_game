@@ -101,7 +101,7 @@ btnHold.addEventListener("click", function () {
     document.getElementById(`score--${activePlayer}`).innerHTML = scores[activePlayer];
 
     // check if the player score more then 100 
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 50) {
       playing = false;
       btnNew.classList.remove("disable-click");
       document.querySelector(`#current--${activePlayer}`).innerHTML = 0;
