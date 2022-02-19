@@ -31,3 +31,12 @@ This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
 
 ## Game Flowchart 
 ![screenshot](pig-game-flowchart.png)
+
+## Testing 
+
+### unctionality Testing
+* I used Chrome developer tools throughout the projects for testing and solving problems with responsiveness and style isssues.
+
+### Compatibilty Testing
+
+* Project/ Game has been tested on different devices such as Desktop, Ipad and on different Mobiles Iphone 11 pro , Samsung Note 20 , Hp envy laptop and its work Great. 
