@@ -30,4 +30,4 @@ This Project/Game call Roll a Dice 🎲. Its a Game of 2 Players!
   will pass to other Player.
 
 ## Game Flowchart 
-![screenshot](
+![screenshot](pig-game-flowchart.png)
